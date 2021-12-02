@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3514c030-3e98-447b-9502-9308680135b3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/state/todolist-reducer.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/todolists-reduser.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/state/user-reducer.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/state/user-reducer.test.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/state/user-reduser.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/state/user-reduser.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +31,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/state" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -41,35 +43,38 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\programming\ToDoListDimych\my-app\src\state" />
+    </key>
     <key name="es6.move.members.recent.items">
       <recent name="D:\programming\ToDoListDimych\my-app\src\EditableSpan.tsx" />
       <recent name="D:\programming\ToDoListDimych\my-app\src\Todolist.tsx" />
     </key>
   </component>
-  <component name="RunManager" selected="Jest.user reducer should be change name of user">
-    <configuration name="renders learn react link" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Jest.correct todolist should be added">
+    <configuration name="correct todolist should be added" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/App.test.tsx" />
+      <test-file value="$PROJECT_DIR$/src/state/todolist-reducer.test.ts" />
       <test-names>
-        <test-name value="renders learn react link" />
+        <test-name value="correct todolist should be added" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="ueser reduser should increment only age" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="correct todolist should be removed" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/state/user-reducer.test.ts" />
+      <test-file value="$PROJECT_DIR$/src/state/todolist-reducer.test.ts" />
       <test-names>
-        <test-name value="ueser reduser should increment only age" />
+        <test-name value="correct todolist should be removed" />
       </test-names>
       <method v="2" />
     </configuration>
@@ -111,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Jest.correct todolist should be added" />
+        <item itemvalue="Jest.correct todolist should be removed" />
         <item itemvalue="Jest.user reducer should be change name of user" />
         <item itemvalue="Jest.user reducer should be increment only childrenCount" />
         <item itemvalue="npm.test" />
-        <item itemvalue="Jest.ueser reduser should increment only age" />
-        <item itemvalue="Jest.renders learn react link" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +148,7 @@
       <workItem from="1638177256945" duration="3626000" />
       <workItem from="1638355915717" duration="649000" />
       <workItem from="1638435210725" duration="4857000" />
-      <workItem from="1638456699576" duration="787000" />
+      <workItem from="1638456699576" duration="2947000" />
     </task>
     <task id="LOCAL-00001" summary="tt">
       <created>1631348515319</created>
@@ -334,7 +339,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638456521176</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="reducer + test">
+      <created>1638457650104</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1638457650104</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
