@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3514c030-3e98-447b-9502-9308680135b3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/state/user-reducer.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/state/user-reducer.test.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/state/user-reduser.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/state/user-reduser.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +46,7 @@
       <recent name="D:\programming\ToDoListDimych\my-app\src\Todolist.tsx" />
     </key>
   </component>
-  <component name="RunManager" selected="Jest.user reducer should be increment only childrenCount">
+  <component name="RunManager" selected="Jest.user reducer should be change name of user">
     <configuration name="renders learn react link" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -68,6 +70,19 @@
       <test-file value="$PROJECT_DIR$/src/state/user-reducer.test.ts" />
       <test-names>
         <test-name value="ueser reduser should increment only age" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="user reducer should be change name of user" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/state/user-reducer.test.ts" />
+      <test-names>
+        <test-name value="user reducer should be change name of user" />
       </test-names>
       <method v="2" />
     </configuration>
@@ -96,6 +111,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Jest.user reducer should be change name of user" />
         <item itemvalue="Jest.user reducer should be increment only childrenCount" />
         <item itemvalue="npm.test" />
         <item itemvalue="Jest.ueser reduser should increment only age" />
@@ -126,7 +142,8 @@
       <workItem from="1637762295441" duration="2845000" />
       <workItem from="1638177256945" duration="3626000" />
       <workItem from="1638355915717" duration="649000" />
-      <workItem from="1638435210725" duration="4621000" />
+      <workItem from="1638435210725" duration="4857000" />
+      <workItem from="1638456699576" duration="787000" />
     </task>
     <task id="LOCAL-00001" summary="tt">
       <created>1631348515319</created>
@@ -310,7 +327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638456280139</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="reducer + test">
+      <created>1638456521176</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1638456521176</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
