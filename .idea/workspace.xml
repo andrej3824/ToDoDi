@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3514c030-3e98-447b-9502-9308680135b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/state/todolist-reducer.test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/todolists-reduser.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/state/todolist-reducer.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/state/todolist-reducer.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/state/todolists-reduser.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/state/todolists-reduser.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,33 @@
       <recent name="D:\programming\ToDoListDimych\my-app\src\Todolist.tsx" />
     </key>
   </component>
-  <component name="RunManager" selected="Jest.correct todolist should be added">
+  <component name="RunManager" selected="Jest.correct filter of todolist should be change">
+    <configuration name="correct filter of todolist should be change" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/state/todolist-reducer.test.ts" />
+      <test-names>
+        <test-name value="correct filter of todolist should be change" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="correct filter of todolist should be changet" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/state/todolist-reducer.test.ts" />
+      <test-names>
+        <test-name value="correct filter of todolist should be changet" />
+      </test-names>
+      <method v="2" />
+    </configuration>
     <configuration name="correct todolist should be added" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -65,7 +90,7 @@
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="correct todolist should be removed" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="correct todolist should change its name" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
@@ -74,33 +99,7 @@
       <scope-kind value="TEST" />
       <test-file value="$PROJECT_DIR$/src/state/todolist-reducer.test.ts" />
       <test-names>
-        <test-name value="correct todolist should be removed" />
-      </test-names>
-      <method v="2" />
-    </configuration>
-    <configuration name="user reducer should be change name of user" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/state/user-reducer.test.ts" />
-      <test-names>
-        <test-name value="user reducer should be change name of user" />
-      </test-names>
-      <method v="2" />
-    </configuration>
-    <configuration name="user reducer should be increment only childrenCount" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/state/user-reducer.test.ts" />
-      <test-names>
-        <test-name value="user reducer should be increment only childrenCount" />
+        <test-name value="correct todolist should change its name" />
       </test-names>
       <method v="2" />
     </configuration>
@@ -116,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Jest.correct todolist should be added" />
-        <item itemvalue="Jest.correct todolist should be removed" />
-        <item itemvalue="Jest.user reducer should be change name of user" />
-        <item itemvalue="Jest.user reducer should be increment only childrenCount" />
+        <item itemvalue="Jest.correct filter of todolist should be change" />
         <item itemvalue="npm.test" />
+        <item itemvalue="Jest.correct filter of todolist should be changet" />
+        <item itemvalue="Jest.correct todolist should change its name" />
+        <item itemvalue="Jest.correct todolist should be added" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +147,7 @@
       <workItem from="1638177256945" duration="3626000" />
       <workItem from="1638355915717" duration="649000" />
       <workItem from="1638435210725" duration="4857000" />
-      <workItem from="1638456699576" duration="2947000" />
+      <workItem from="1638456699576" duration="5098000" />
     </task>
     <task id="LOCAL-00001" summary="tt">
       <created>1631348515319</created>
@@ -346,7 +345,21 @@
       <option name="project" value="LOCAL" />
       <updated>1638457650104</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="reducer + test">
+      <created>1638459704977</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1638459704977</updated>
+    </task>
+    <task id="LOCAL-00030" summary="reducer + test">
+      <created>1638459925426</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1638459925426</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
