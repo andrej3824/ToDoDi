@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3514c030-3e98-447b-9502-9308680135b3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/state/tasks-reducer.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/state/tasks-reducer.test.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/state/tasks-reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/state/tasks-reducer.ts" afterDir="false" />
     </list>
@@ -53,7 +52,7 @@
       <recent name="D:\programming\ToDoListDimych\my-app\src\Todolist.tsx" />
     </key>
   </component>
-  <component name="RunManager" selected="Jest.status of specified task should be changed">
+  <component name="RunManager" selected="Jest.new array should be added when new todolist is added">
     <configuration name="correct task should be added to correct array" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -77,6 +76,19 @@
       <test-file value="$PROJECT_DIR$/src/state/tasks-reducer.test.ts" />
       <test-names>
         <test-name value="correct task should be deleted from correct array" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="new array should be added when new todolist is added" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/state/tasks-reducer.test.ts" />
+      <test-names>
+        <test-name value="new array should be added when new todolist is added" />
       </test-names>
       <method v="2" />
     </configuration>
@@ -106,23 +118,13 @@
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="test" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Jest.new array should be added when new todolist is added" />
         <item itemvalue="Jest.status of specified task should be changed" />
         <item itemvalue="Jest.title of specified task should be changed" />
         <item itemvalue="Jest.correct task should be added to correct array" />
         <item itemvalue="Jest.correct task should be deleted from correct array" />
-        <item itemvalue="npm.test" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +158,7 @@
       <workItem from="1638526218287" duration="3613000" />
       <workItem from="1638529883319" duration="521000" />
       <workItem from="1638530523938" duration="72000" />
-      <workItem from="1638530612925" duration="4744000" />
+      <workItem from="1638530612925" duration="5145000" />
     </task>
     <task id="LOCAL-00001" summary="tt">
       <created>1631348515319</created>
@@ -417,7 +419,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638532100158</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="reducer tasks + test">
+      <created>1638544970688</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1638544970688</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
