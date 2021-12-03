@@ -1,4 +1,5 @@
-import {userReducer} from "./user-reduser";
+import {userReducer} from "./user-reducer";
+
 
 test('ueser reduser should increment only age', () => {
     const startState = {age: 20, childrenCount: 2, name: "Dimych"}
