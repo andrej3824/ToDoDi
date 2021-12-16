@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3514c030-3e98-447b-9502-9308680135b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/11 LESSON.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 LESSON.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AddItemForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/AddItemForm.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppWithRedux.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppWithRedux.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Todolist.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Todolist.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,6 +163,7 @@
       <workItem from="1638530523938" duration="72000" />
       <workItem from="1638530612925" duration="7069000" />
       <workItem from="1639401686430" duration="15390000" />
+      <workItem from="1639499999143" duration="6925000" />
     </task>
     <task id="LOCAL-00001" summary="tt">
       <created>1631348515319</created>
@@ -457,7 +459,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639479082926</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="11 - useCallback, React.memo, immutability">
+      <created>1639500185421</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1639500185421</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -485,6 +494,7 @@
     <MESSAGE value="reducer + test" />
     <MESSAGE value="reducer tasks + test" />
     <MESSAGE value="useReducer, redux" />
-    <option name="LAST_COMMIT_MESSAGE" value="useReducer, redux" />
+    <MESSAGE value="11 - useCallback, React.memo, immutability" />
+    <option name="LAST_COMMIT_MESSAGE" value="11 - useCallback, React.memo, immutability" />
   </component>
 </project>
