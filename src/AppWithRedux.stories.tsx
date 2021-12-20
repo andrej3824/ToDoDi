@@ -14,5 +14,4 @@ export default {
 export const AppWithReduxBaseExample = () => {
     return
     <AppWithRedux/>
-
 }
