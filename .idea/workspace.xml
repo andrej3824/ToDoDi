@@ -5,32 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3514c030-3e98-447b-9502-9308680135b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.storybook/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.storybook/preview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AddItemForm.stories.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EditableSpan.stories.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task.stories.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/Button.stories.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/Button.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/Header.stories.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/Header.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/Introduction.stories.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/Page.stories.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/Page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/assets/code-brackets.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/assets/colors.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/assets/comments.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/assets/direction.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/assets/flow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/assets/plugin.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/assets/repo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/assets/stackalt.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/button.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AppWithRedux.stories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stories/ReduxStoreProviderDecorator.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EditableSpan.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/EditableSpan.stories.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +162,7 @@
       <workItem from="1639401686430" duration="15390000" />
       <workItem from="1639499999143" duration="9290000" />
       <workItem from="1639645552147" duration="487000" />
-      <workItem from="1639995808401" duration="5566000" />
+      <workItem from="1639995808401" duration="6976000" />
     </task>
     <task id="LOCAL-00001" summary="tt">
       <created>1631348515319</created>
@@ -515,7 +493,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639995852139</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="12 - storybook, decorator, snapshot testing">
+      <created>1640014329108</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1640014329108</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -1,32 +1,15 @@
 import React from "react";
 import {action} from "@storybook/addon-actions";
-import {AddItemForm} from "./AddItemForm";
-import {Task} from "./Task";
+import {EditableSpan} from "./EditableSpan";
 
 export default {
-    title: "Task Component",
-    component: Task
+    title: "EditableSpan Component",
+    component: EditableSpan
 }
 
-const changeTaskStatusCallback = action("Status changed")
-const changeTaskTitleCallback = action("Title changed")
-const removeTaskCallback = action("Task removed")
+const changeCallback = action("Value changed")
 
-export const TaskBaseExample = () => {
-    return <>
-        <Task
-            changeTaskStatus={changeTaskStatusCallback}
-            changeTaskTitle={changeTaskTitleCallback}
-            removeTask={removeTaskCallback}
-            task={{id: '1', isDone: true, title: 'CSS'}}
-            todolistId={"todolistId1"}
-        />
-        <Task
-            changeTaskStatus={changeTaskStatusCallback}
-            changeTaskTitle={changeTaskTitleCallback}
-            removeTask={removeTaskCallback}
-            task={{id: '2', isDone: false, title: 'HTML'}}
-            todolistId={"todolistId2"}
-        />
-    </>
+export const EditableSpanBaseExample = () => {
+    return <EditableSpan value={"StartValue"} onChange={changeCallback}/>
+        
 }
