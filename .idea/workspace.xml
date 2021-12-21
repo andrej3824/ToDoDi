@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3514c030-3e98-447b-9502-9308680135b3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/AppWithRedux.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppWithRedux.stories.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stories/ReduxStoreProviderDecorator.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/stories/ReduxStoreProviderDecorator.tsx" afterDir="false" />
+    <list default="true" id="3514c030-3e98-447b-9502-9308680135b3" name="Changes" comment="12 - storybook, decorator, snapshot testing">
+      <change afterPath="$PROJECT_DIR$/13 LESSON.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12 LESSON.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,14 +161,8 @@
       <workItem from="1639401686430" duration="15390000" />
       <workItem from="1639499999143" duration="9290000" />
       <workItem from="1639645552147" duration="487000" />
-      <workItem from="1639995808401" duration="7317000" />
-    </task>
-    <task id="LOCAL-00001" summary="tt">
-      <created>1631348515319</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1631348515319</updated>
+      <workItem from="1639995808401" duration="8737000" />
+      <workItem from="1640073392967" duration="84000" />
     </task>
     <task id="LOCAL-00002" summary="1">
       <created>1631541336855</created>
@@ -505,7 +500,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640015909674</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="12 - storybook, decorator, snapshot testing">
+      <created>1640016255835</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1640016255836</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
