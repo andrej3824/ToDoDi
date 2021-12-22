@@ -8,7 +8,6 @@
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/api/todolists-api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/todolists-api.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stories/todolists-api.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/stories/todolists-api.stories.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,14 +163,7 @@
       <workItem from="1639645552147" duration="487000" />
       <workItem from="1639995808401" duration="8737000" />
       <workItem from="1640073392967" duration="84000" />
-      <workItem from="1640073502811" duration="11464000" />
-    </task>
-    <task id="LOCAL-00005" summary="1">
-      <created>1632156095876</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1632156095876</updated>
+      <workItem from="1640073502811" duration="12452000" />
     </task>
     <task id="LOCAL-00006" summary="1">
       <created>1632159472498</created>
@@ -509,7 +501,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640168776908</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="13 - api, axios, rest api">
+      <created>1640171384838</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1640171384838</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
