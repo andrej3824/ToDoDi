@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3514c030-3e98-447b-9502-9308680135b3" name="Changes" comment="12 - storybook, decorator, snapshot testing">
-      <change afterPath="$PROJECT_DIR$/13 LESSON.txt" afterDir="false" />
+    <list default="true" id="3514c030-3e98-447b-9502-9308680135b3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/stories/todolists-api.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12 LESSON.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,13 +165,7 @@
       <workItem from="1639645552147" duration="487000" />
       <workItem from="1639995808401" duration="8737000" />
       <workItem from="1640073392967" duration="84000" />
-    </task>
-    <task id="LOCAL-00002" summary="1">
-      <created>1631541336855</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1631541336855</updated>
+      <workItem from="1640073502811" duration="8493000" />
     </task>
     <task id="LOCAL-00003" summary="1">
       <created>1631638994428</created>
@@ -507,7 +503,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640016255836</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="13 - api, axios, rest api">
+      <created>1640073805899</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1640073805899</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -537,6 +540,7 @@
     <MESSAGE value="useReducer, redux" />
     <MESSAGE value="11 - useCallback, React.memo, immutability" />
     <MESSAGE value="12 - storybook, decorator, snapshot testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="12 - storybook, decorator, snapshot testing" />
+    <MESSAGE value="13 - api, axios, rest api" />
+    <option name="LAST_COMMIT_MESSAGE" value="13 - api, axios, rest api" />
   </component>
 </project>
